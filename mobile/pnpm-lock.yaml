@@ -17,8 +17,8 @@ dependencies:
     specifier: 18.2.0
     version: 18.2.0
   react-native:
-    specifier: 0.71.7
-    version: 0.71.7(@babel/core@7.20.2)(@babel/preset-env@7.21.5)(react@18.2.0)
+    specifier: 0.71.8
+    version: 0.71.8(@babel/core@7.20.2)(@babel/preset-env@7.21.5)(react@18.2.0)
   typescript:
     specifier: ^4.9.4
     version: 4.9.5
@@ -6714,8 +6714,8 @@ packages:
     resolution: {integrity: sha512-7F6bD7B8Xsn3JllxcwHhFcsl9aHIig47+3eN4IHFNqfLhZr++3ElDrcqfMzugM+niWbaMi7bJ0kAkAL8eCpdWg==}
     dev: false
 
-  /react-native@0.71.7(@babel/core@7.20.2)(@babel/preset-env@7.21.5)(react@18.2.0):
-    resolution: {integrity: sha512-Id6iRLS581fJMFGbBl1jP5uSmjExtGOvw5Gvh7694zISXjsRAsFMmU+izs0pyCLqDBoHK7y4BT7WGPGw693nYw==}
+  /react-native@0.71.8(@babel/core@7.20.2)(@babel/preset-env@7.21.5)(react@18.2.0):
+    resolution: {integrity: sha512-ftMAuhpgTkbHU9brrqsEyxcNrpYvXKeATY+if22Nfhhg1zW+6wn95w9otwTnA3xHkljPCbng8mUhmmERjGEl7g==}
     engines: {node: '>=14'}
     hasBin: true
     peerDependencies:
